@@ -1,2 +1,2 @@
-# Cryptography-Python
+# hacktoberfest
 Python code snippets for modern ciphers .
