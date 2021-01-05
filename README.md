@@ -1,5 +1,5 @@
 # Python-meets-Cryptography
-Python code snippets for modern ciphers, made in reference with [this][https://a3h1ntnotebook.wordpress.com/category/cryptography/] series.
+Python code snippets for modern ciphers, made in reference with [this](https://a3h1ntnotebook.wordpress.com/category/cryptography/) series.
 
 # How to run ?
 
